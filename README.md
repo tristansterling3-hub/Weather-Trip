@@ -9,7 +9,6 @@ You know what to realistically expect without false precision.
 
 - Destination search with autocomplete
 - 7-day live forecast via Open-Meteo
-- Days 8–14 historical climate averages (1991–2020)
 - Smart packing suggestions based on temperature and rain
 - Shareable trip summary
 
