@@ -1,6 +1,6 @@
 # Weather-Trip
 A small program for tracking weather on spontaneous trips, built with React + Vite.
-SponTrip.mp3
+ ![SponTrip Dashboard](SponTrip.mp3).
 
 Search any destination and get a 14-day weather outlook — the first 7 days 
 are live forecast data, and days 8–14 show 30-year historical averages, so 
